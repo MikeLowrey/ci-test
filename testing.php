@@ -1,2 +1,2 @@
 <?php
-echo 'testing';
+echo 'testing - in git edit';
